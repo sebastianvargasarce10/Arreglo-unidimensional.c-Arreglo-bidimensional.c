@@ -1,5 +1,3 @@
-Arreglo-unidimensional.c
-
 #include <stdio.h>
 
 #define ROWS 9
